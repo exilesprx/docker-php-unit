@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a2ad1a1b-8bd7-43b2-b5a9-08bce66e5493" name="DockerPhpUnit">
+        <fileTransfer rootFolder="/home/andrew/Documents" accessType="SFTP" host="endeavour" port="22" sshConfigId="2bef77d1-ed33-4903-aec6-10c825c0f122" sshConfig="Endeavour">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

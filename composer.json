@@ -1,0 +1,14 @@
+{
+    "name": "campb/php-unit",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Exilesprx",
+            "email": "campbell.andrew86@yahoo.com"
+        }
+    ],
+    "require": {
+        "php": "8.0",
+        "phpunit/phpunit": "^9.5"
+    }
+}
